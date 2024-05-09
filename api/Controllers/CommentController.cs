@@ -5,9 +5,6 @@ using System.Threading.Tasks;
 using api.Dtos.Comment;
 using api.Interfaces;
 using api.Mappers;
-using api.Models;
-using api.Repository;
-using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Mvc;
 
 namespace api.Controllers
